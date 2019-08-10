@@ -3,24 +3,24 @@
 
 My code are in comment blocks of .py scripts:
 
-`
-############################################################################
-# TODO: ...                                                                #
-############################################################################
-Here!
-############################################################################
-#                          END OF YOUR CODE                                #
-############################################################################
-`
 
-EX1: Softmax classifier / SGD / 3-layer NN
+`############################################################################`
+`# TODO: ...                                                                #`
+`############################################################################`
+`Here!`
+`############################################################################`
+`#                          END OF YOUR CODE                                #`
+`############################################################################`
 
-EX2:  FC, Softmax and ReLU layers /
+
+__EX1:__ Softmax classifier / SGD / 3-layer NN
+
+__EX2:__  FC, Softmax and ReLU layers /
       SGD with momentum and Adam /
       Solver
 
-PytorchIntroAndOptionalCNN: CNN implementation / Pytorch
+__PytorchIntroAndOptionalCNN:__ CNN implementation / Pytorch
 
-EX3:  Facial keypoints detection / 
+__EX3:__  Facial keypoints detection / 
       Semantic segmentation using transfer learning / 
       MNIST classification with simple RNN and LSTM
