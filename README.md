@@ -1,6 +1,8 @@
 # Introduction to Deep Learning Exercises
 # Technical University Munich - SS 2019
 
+Course webpage https://dvl.in.tum.de/teaching/i2dl-ss19/
+
 My code are in comment blocks of .py scripts:
 
 
